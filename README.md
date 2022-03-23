@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fleizean&show_icons=true&locale=en&layout=compact" alt="fleizean" /></p>
 
-[![eyagiz's 42 stats](https://badge42.herokuapp.com/api/stats/eyagiz)](https://github.com/JaeSeoKim/badge42)
+[![eyagiz's 42 stats](https://badge42.vercel.app/api/v2/stats/cl13ejq4y000909mke5sxpjan?cursusId=21)
