@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GYM Managment Panel And AI Personal Assistant**
 
-- 🌱 I’m currently learning **C, C++, Python**
+- 🌱 I’m currently learning **C++, Python, Java**
 
 - 📫 How to reach me **nsyagz@gmail.com**
 
