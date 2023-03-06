@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET Technology**
 
-- 🌱 I’m currently learning **.Net, C++, Python**
+- 🌱 I’m currently learning **.NET, C++, Python**
 
 - 📫 How to reach me **nsyagz@gmail.com**
 
