@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on **GYM Managment Panel And AI Personal Assistant**
+- 🔭 I’m currently working on **.NET Technology**
 
 - 🌱 I’m currently learning **.Net, C++, Python**
 
