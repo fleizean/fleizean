@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET Technology**
 
-- 🌱 I’m currently learning **.NET, C++, Python, Flutter**
+- 🌱 I’m currently learning **.NET, C++, Python, Flutter, Vue.js, React**
 
 - 📫 How to reach me **nsyagz@gmail.com**
 
