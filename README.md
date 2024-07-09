@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET Technology**
 
-- 🌱 I’m currently learning **.NET, Python, Vue.js, React**
+- 🌱 I’m currently learning **.NET, Python, React**
 
 - 📫 How to reach me **nsyagz@gmail.com**
 <h3 align="left">Profiles:</h3>
